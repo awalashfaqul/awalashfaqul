@@ -4,7 +4,7 @@
 I’m a passionate software developer and tech enthusiast with a drive to stay ahead of the curve. I thrive on crafting clean, efficient code and am always exploring new technologies and approaches to sharpen my skills and push the boundaries of what I can create.
 
 
-## **Profile Stats**
+## **GitHub Stats**
 ![Profile Views](https://github-readme-stats.vercel.app/api?username=awalashfaqul&show_icons=true&theme=default&count_private=true)
 
 
