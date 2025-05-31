@@ -18,6 +18,7 @@ I’m a passionate software developer and tech enthusiast with a drive to stay a
 ### **Back-End:**
 
 [![back-end](https://skillicons.dev/icons?i=dotnet,laravel,phoenix,mongodb,postgresql,mysql,git,docker&perline=10)](#back-end)
+_Also experienced with Phoenix LiveView._
 
 ### **Tools:**
 
