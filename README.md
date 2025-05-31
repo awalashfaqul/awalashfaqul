@@ -3,8 +3,20 @@
 
 I’m a passionate software developer and tech enthusiast with a drive to stay ahead of the curve. I thrive on crafting clean, efficient code and am always exploring new technologies and approaches to sharpen my skills and push the boundaries of what I can create.
 
+
+
 ## 💻 **Tech-Stack**
 
+
+### 🚀 Featured Projects
+
+Here are a few cool repositories I’m working on or proud of:
+
+- 🔗 [**Book-a-Table**](https://github.com/awalashfaqul/book-a-table) — A restaurant booking system built with .NET & Elixir/Phoenix.
+- 🔗 [**Weather API App**](https://github.com/awalashfaqul/weather-api-app) — Weather API app comparing CRUD performance in different frameworks.
+- 🔗 [**Personal Portfolio**](https://github.com/awalashfaqul/portfolio) — My personal developer portfolio website.
+
+---
 
 ### 📈 Top Languages
 
