@@ -8,6 +8,7 @@ I’m a passionate software developer and tech enthusiast with a drive to stay a
 ## 💻 **Tech-Stack**
 
 
+
 ### 🚀 Featured Projects
 
 Here are a few cool repositories I’m working on or proud of:
@@ -27,6 +28,15 @@ Here are a few cool repositories I’m working on or proud of:
 ## **GitHub Stats**
 ![Profile Views](https://github-readme-stats.vercel.app/api?username=awalashfaqul&show_icons=true&theme=default&count_private=true)
 
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/awalashfaqul)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:your-email@example.com)
+
+---
+
+_Thanks for visiting my profile! ⭐ Don’t forget to check out my repositories and leave a star on projects you like!_
 
 <!--
 **awalashfaqul/awalashfaqul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
