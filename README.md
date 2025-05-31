@@ -1,4 +1,5 @@
 ## Hi there 👋 It's me - ASHFAQUL
+[![VIEWS](https://komarev.com/ghpvc/?username=awalashfaqul&color=blue&style=for-the-badge&label=PROFILE+VIEWS)](#)
 
 ![Profile Views](https://github-readme-stats.vercel.app/api?username=awalashfaqul&show_icons=true&theme=default&count_private=true)
 
