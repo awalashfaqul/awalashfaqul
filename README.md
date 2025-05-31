@@ -7,7 +7,23 @@ I’m a passionate software developer and tech enthusiast with a drive to stay a
 
 ## 💻 **Tech-Stack**
 
+### **Programming:**
 
+[![programming](https://skillicons.dev/icons?i=cs,js,elixir,python,ts&perline=10)](#front-end)
+
+### **Front-End:**
+
+[![front-end](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vue,react,redux&perline=10)](#front-end)
+
+### **Back-End:**
+
+[![back-end](https://skillicons.dev/icons?i=dotnet,laravel,phoenix,mongodb,postgresql,mysql,git,docker&perline=10)](#back-end)
+
+### **Tools:**
+
+[![tools](https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,githubactions,aws,azure&perline=10)](#tools)
+
+<br/>
 
 ### 🚀 Featured Projects
 
