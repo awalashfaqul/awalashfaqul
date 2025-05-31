@@ -39,12 +39,14 @@ Here are a few cool repositories I’m working on or proud of:
 
 ### 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awalashfaqul&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awalashfaqul&hide_border=true&layout=compact&card_width=495)
 
 ---
 
 ## **GitHub Stats**
 ![Profile Views](https://github-readme-stats.vercel.app/api?username=awalashfaqul&show_icons=true&theme=default&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=awalashfaqul&hide_border=true)](#-commit-stats)
 
 
 ### 🌐 Connect With Me
